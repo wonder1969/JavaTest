@@ -1,2 +1,2 @@
 # JavaTest
-Java Code Test
+Preparing for Java OCA
